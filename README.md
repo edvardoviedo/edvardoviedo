@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/edvardoviedo/recursos/refs/heads/main/WELCOME%20TO%20MY%20GITHUB2.png" alt="Welcome Banner" />
 </p>
 
-<h1 align="center">Hi there! I'm Ed Oviedo 👋</h1>
+<h1 align="center">Hi there! I'm Ed Oviedo ✌🏽</h1>
 
 <p align="center">
   🎨 Visual Designer | 💻 UX/UI Enthusiast | ⚡ Tech-savvy Creative<br>
