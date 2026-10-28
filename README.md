@@ -7,7 +7,7 @@
 
 <p align="center">
   🎨 Visual Designer | 💻 UX/UI Enthusiast | ⚡ Tech-savvy Creative<br>
-  <a href="https://edvardoviedo.github.io/PORTFOLIO/">🌐 Check out my Portfolio</a> • 
+  <a href="https://oviedoportfolio.netlify.app/">🌐 Check out my Portfolio</a> • 
   <a href="https://www.linkedin.com/in/eduardo-oviedo-09ba7a2a5">LinkedIn</a> • 
   <a href="mailto:edvardoviedo@gmail.com">Email Me</a>
 </p>
