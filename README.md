@@ -39,7 +39,7 @@ I’m always open to collaborate, learn and build beautiful digital experiences.
 Feel free to reach out!
 
 <p align="center">
-  <a href="https://edvardoviedo.github.io/PORTFOLIO/">🌐 Portfolio</a> • 
+  <a href="https://oviedoportfolio.netlify.app/">🌐 Portfolio</a> • 
   <a href="https://www.linkedin.com/in/eduardo-oviedo-09ba7a2a5">💼 LinkedIn</a> • 
   <a href="mailto:edvardoviedo@gmail.com">📧 Email Me</a>
 </p>
